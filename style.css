@@ -20,8 +20,14 @@ html {
     flex-wrap: wrap;
 }
 
+button {
+    border: groove grey 3px;
+    box-shadow: 5px 5px 5px rgba(66, 107, 47, 0.63);
+}
+
 h2 {
     font-size: xx-large;
+    background-color: white;
     text-align: center;
     width: 200px;
     border: solid grey 5px;
